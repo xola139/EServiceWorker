@@ -1,5 +1,11 @@
 # EServiceWorker
 
+My firts project with service worker I have been used the next url
+https://blog.angulartraining.com/how-to-go-offline-with-angular-service-worker-a3cc5dabc4d5
+https://angular.io/guide/service-worker-getting-started
+by my references 
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
 ## Development server
